@@ -11,6 +11,6 @@ Based on the structure: https://github.com/dusty-nv/jetson-inference
 
 Dataset: HAM10000 (only part for demo)
 
-Functionality: classify skin lesions (malignant cancer or benign tumor) using Edge AI Computing, with a simple photograph taken by the user.
+Functionality: classify skin lesions (malignant cancer or benign tumor) using Edge AI Computing, with a simple image taken by the user.
 
 P.S: It can also work in WebApp: https://github.com/gcjordi/skinlesionanalyzer_webapp_jgc
